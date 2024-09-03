@@ -1,0 +1,65 @@
+.section {
+  padding: 40px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.centered-content {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.lab-description {
+  text-align: center;
+}
+
+.dual-pump-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.features-left,
+.features-right {
+  flex: 1;
+  min-width: 200px;
+  padding: 20px;
+}
+
+.features-left ul,
+.features-right ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features-left li,
+.features-right li {
+  margin-bottom: 10px;
+}
+
+.dual-pump-image {
+  max-width: 300px;
+  height: auto;
+  margin: 0 20px;
+}
+
+.section {
+  background-color: #fff; /* Setting the background color to white */
+}
