@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce2c34a6.css",
+    "main.js": "/static/js/main.ab02f61b.js",
+    "static/js/453.b7fa06af.chunk.js": "/static/js/453.b7fa06af.chunk.js",
+    "static/media/Pumprender.png": "/static/media/Pumprender.81ba5a6464fc8a707c92.png",
+    "static/media/Lab Logo Final.png": "/static/media/Lab Logo Final.a3b94a45aed4c24f97e1.png",
+    "index.html": "/index.html",
+    "main.ce2c34a6.css.map": "/static/css/main.ce2c34a6.css.map",
+    "main.ab02f61b.js.map": "/static/js/main.ab02f61b.js.map",
+    "453.b7fa06af.chunk.js.map": "/static/js/453.b7fa06af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2c34a6.css",
+    "static/js/main.ab02f61b.js"
+  ]
+}
